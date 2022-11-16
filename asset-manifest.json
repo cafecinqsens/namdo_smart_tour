@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/namdo_smart_tour/static/css/main.48fd8062.css",
+    "main.js": "/namdo_smart_tour/static/js/main.ca5dca58.js",
+    "index.html": "/namdo_smart_tour/index.html",
+    "main.48fd8062.css.map": "/namdo_smart_tour/static/css/main.48fd8062.css.map",
+    "main.ca5dca58.js.map": "/namdo_smart_tour/static/js/main.ca5dca58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fd8062.css",
+    "static/js/main.ca5dca58.js"
+  ]
+}
